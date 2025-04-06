@@ -21,4 +21,4 @@ In our analysis, we first examined the number of dentists (per 10,000 people) an
 
 ### Poster
 
-![Tooth Truth Poster](Wieckowska_Wojterska_Zielinski.png)
+![Tooth Truth Poster](poster.png)
